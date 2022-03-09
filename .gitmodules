@@ -1,3 +1,4 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/Thyraz/Sonos-Kids-Controller.git
+	url = https://github.com/blehnertz1/Sonos-Kids-Controller.git
+	checkout = 1.6.2
